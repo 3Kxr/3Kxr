@@ -1,5 +1,4 @@
 - 👋 Hi, there
-- This is second account, <a href="http://github.com/jc1joker">another account</a>
 - I hate restricted 🔓
 - I'm just a tech fanatic ;->
 - The direction of effort >>> Steve Jobs <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-apple" viewBox="0 0 16 16">
